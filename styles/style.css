@@ -10,6 +10,12 @@
 .material-icons.md-48 { font-size: 48px; }
 
 .responsive {
-    width: 100%;
-    height: auto;
-  }
+  width: 100%;
+  height: auto;
+}
+.rounded-circle {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+ /* Centers the circle horizontally */
+}
